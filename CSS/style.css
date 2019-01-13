@@ -1,0 +1,16 @@
+body {
+  background-color: #b76e79;
+}
+
+hr {
+  border-top: 1px dotted blue;
+  width: 30%;
+  border-style: dotted none none;
+  height: 0;
+}
+
+h1 { color: #7acfdf;
+text-align: center;
+letter-spacing: 30px;}
+
+h3 {color: #7acfdf}
